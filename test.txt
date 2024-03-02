@@ -5,4 +5,3 @@ Added a cool feature.
 Hey, we fixed the bug!!
 
 Another test of git.
-Add a change.
