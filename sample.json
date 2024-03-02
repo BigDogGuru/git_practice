@@ -1,5 +1,6 @@
 {
     "bug_fixed":"critical",
     "patch": "tested",
-    "feature": "cool feature"
+    "feature": "cool feature",
+    "feature2": "new feature"
 }
